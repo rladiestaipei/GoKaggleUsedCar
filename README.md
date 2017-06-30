@@ -1,5 +1,5 @@
 # GoKaggleUsedCar Go,Kaggle讀書會延長 
-此Repo是二手車資料的競賽，相關資料請參考 https://dc.dsp.im/main/content/used-car-price-challenge (SpeedDating請看另一個repo)
+此Repo是二手車資料的競賽，相關資料請參考 https://dc.dsp.im/main/content/used-car-price-challenge (SpeedDating請看另一個 (repo)[https://github.com/rladiestaipei/GoKaggleSpeedDating] )
 # 固定線下碰面聚會時間:(需要都出席喔~~  )
 七到九月第二個禮拜二，7/4；8/8；9/5  
 # 固定線上碰面時間:
