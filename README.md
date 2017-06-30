@@ -17,3 +17,5 @@
 # 志工增求
 * 一名熟習github,能協助管理github repo,以及協助大家在github上開issue及共編  
 * 一名協助線上跟線下開會通知  
+
+# 看完readme請在此報到 https://github.com/rladiestaipei/GoKaggleUsedCar/issues/1
