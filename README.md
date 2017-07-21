@@ -2,8 +2,12 @@
 此Repo是二手車資料的競賽，相關資料請參考 https://dc.dsp.im/main/content/used-car-price-challenge (SpeedDating請看另一個 [repo](https://github.com/rladiestaipei/GoKaggleSpeedDating) )
 # 固定線下碰面聚會時間:(需要都出席喔~~  )
 七到九月第二個禮拜二，7/4；8/8；9/5  
+  Agenda: 1.前半小時每個人花幾分鐘分享前兩週的進度
+          2.一個小時Mentor來指導
 # 固定線上碰面時間:
 七到九月倒數第二個禮拜天晚上九點，7/23；8/20；9/17  
+  Agenda: 1. 每個人花五分鐘分享自己前兩週的進度，若有想要回答或補充的大家彼此幫忙。  
+          2. 討論有哪幾個issue想找mentor來指導。
 # 一定要遵守的規定:  
 * 每個月的線下及線上碰面時間都要出席  
 * 每兩周自己挑一個issue解，若無issue請自己開一個有興趣的issue
